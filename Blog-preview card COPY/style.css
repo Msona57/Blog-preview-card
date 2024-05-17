@@ -1,0 +1,37 @@
+body{
+    margin: 10px;
+    padding: 10px;
+}
+
+#image1{
+    height: 400px;
+    width: 580px;
+}
+
+#button{
+    height: 37px;
+    width: 90px;
+    font-size: medium;
+    font-weight: bold;
+    background-color:rgb(228, 152, 12);
+    border: none;
+    
+    
+}
+
+#h2{
+    cursor: pointer;
+}
+#h2:hover{
+    color:rgb(228, 152, 12);
+}
+
+#p5{
+    font-weight: bold;
+}
+
+#float{
+    float: left;
+    padding: 6px;
+}  
+
